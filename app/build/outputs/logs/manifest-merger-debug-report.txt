@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+MERGED from [com.android.support:design:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6fa4d21724edd81507c0e30d1b15ac1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c7b215a0c5675d266f111f0f2e19d0e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2b94813fe1e4f34f27d9806e64b03701/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e1359e9a48ed69a028245e2d68dd61dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/434ac0f0e817c61ea1da20d3b2b89f71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/24292c3b93f6d5cb7c03673c2bf42c95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/008e0873872fd61ab3e6fd20cefbc880/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d5737f33ae86f7816995bc5137775f80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4d379c0d8a471b00ec4cc7fbd25ceb0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/67f66dfebf5db061df04692d966add26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6030cccde3c92b4b56655107b42c2e5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e822469587387630a935da7018946402/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7819742592c075d4e38da9deb79db01d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/56227c59aeb96873e20c6a0e470b1026/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bf84918a0b79f6a30c299bb6cffff3aa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5579d86c4de2f6ad1939c172a5ed665e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aa6431c5e68980337d16553689873e86/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+	package
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:20:5-34:19
+	android:supportsRtl
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.materialme.MainActivity
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.example.android.materialme.DetailActivity
+ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:33:9-61
+	android:name
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml:33:19-49
+uses-sdk
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6fa4d21724edd81507c0e30d1b15ac1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6fa4d21724edd81507c0e30d1b15ac1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c7b215a0c5675d266f111f0f2e19d0e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c7b215a0c5675d266f111f0f2e19d0e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2b94813fe1e4f34f27d9806e64b03701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2b94813fe1e4f34f27d9806e64b03701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e1359e9a48ed69a028245e2d68dd61dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e1359e9a48ed69a028245e2d68dd61dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/434ac0f0e817c61ea1da20d3b2b89f71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/434ac0f0e817c61ea1da20d3b2b89f71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/24292c3b93f6d5cb7c03673c2bf42c95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/24292c3b93f6d5cb7c03673c2bf42c95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/008e0873872fd61ab3e6fd20cefbc880/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/008e0873872fd61ab3e6fd20cefbc880/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d5737f33ae86f7816995bc5137775f80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d5737f33ae86f7816995bc5137775f80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4d379c0d8a471b00ec4cc7fbd25ceb0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4d379c0d8a471b00ec4cc7fbd25ceb0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/67f66dfebf5db061df04692d966add26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/67f66dfebf5db061df04692d966add26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6030cccde3c92b4b56655107b42c2e5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6030cccde3c92b4b56655107b42c2e5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e822469587387630a935da7018946402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e822469587387630a935da7018946402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7819742592c075d4e38da9deb79db01d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7819742592c075d4e38da9deb79db01d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/56227c59aeb96873e20c6a0e470b1026/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/56227c59aeb96873e20c6a0e470b1026/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bf84918a0b79f6a30c299bb6cffff3aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bf84918a0b79f6a30c299bb6cffff3aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5579d86c4de2f6ad1939c172a5ed665e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5579d86c4de2f6ad1939c172a5ed665e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aa6431c5e68980337d16553689873e86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eukrissongahid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aa6431c5e68980337d16553689873e86/AndroidManifest.xml:20:5-44
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eukrissongahid/Downloads/android-fundamentals-starter-apps-v2-master/MaterialMe-Starter/app/src/main/AndroidManifest.xml
